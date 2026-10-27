@@ -1,63 +1,32 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080F25,50:123C69,100:00D9FF&height=190&section=header&text=Vineet%20Gangwar&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20Artificial%20Intelligence&descAlignY=57&descSize=17" width="100%" alt="Animated AI-themed header"/>
+# ⚡ VINEET GANGWAR
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Learning+Java+%26+Web+Development;Exploring+Artificial+Intelligence;Building+Projects+Step+by+Step" alt="Animated introduction"/>
+### AI ENGINEER IN THE MAKING
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=550&lines=Java+Developer+in+Progress;HTML+%7C+CSS+%7C+JavaScript;Exploring+Artificial+Intelligence;Learn.+Code.+Build." />
 
----
+### 🧠 MY TECH STACK
 
-## 🧠 About Me
+<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode&theme=dark" />
 
-Hello! I'm **Vineet Gangwar**, a B.Tech CSE student specializing in AI at Invertis University.
+### 🎯 MY GOAL
 
-- 🎓 First-year Computer Science student
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 💻 Learning Java, HTML, CSS and JavaScript
-- 🌱 Exploring programming fundamentals and AI concepts
-- 🚀 Working towards building useful, real-world projects
+B.Tech CSE (AI) Student  
+Learning Java, Web Development and AI/ML.
 
-## ⚡ My Tech Stack
+### 🔗 CONNECT WITH ME
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,java,git,github,vscode" alt="Current technology stack"/>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Vineet_gangwar)
 
-## 🔬 My AI Learning Roadmap
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 
-| Stage | Focus |
-|---|---|
-| 01 | Programming fundamentals |
-| 02 | Python and problem-solving |
-| 03 | Mathematics for AI |
-| 04 | Data analysis and machine learning |
-| 05 | AI projects and model evaluation |
-
-## 🚀 Projects
-
-- 🌐 **Personal Portfolio** — showcasing my learning journey
-- 📄 **Student Resume Page** — an HTML-based resume project
-- 💻 **Coding Practice** — programming and web development assignments
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vineetgangwar76-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetgangwar76-cyber&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
 
 </div>
 
----
 
-<div align="center">
 
-### 💡 Learn. Build. Experiment. Improve.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:080F25&height=100&section=footer" width="100%" alt="Animated blue footer"/>
-
-</div>
 
